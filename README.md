@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aisoup-net is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aisoup.net/
+AI Soup (legal name Dream Workshop LLC) builds AI agent‑native applications that enable two A4As: Agent for App and App for Agent. It offers a suite of AI‑driven tools including AgenticWiKi for knowledge work, Web Evidence for claim verification, California C‑10 Contractor Check, Niche Discovery, Photo Scout, and Property Scout, each providing specialized agent‑led workflows and infrastructure.
+
+**Areas:** AI · Agent · Platform · Workflow · LLM
+
+## aisoup-net on APIs.io
+
+Everything profiled for aisoup-net is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aisoup-net/](https://apis.io/providers/aisoup-net/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [California C-10 Contractor Check](https://apis.io/apis/aisoup-net/california-c-10-contractor-check/) — Paid source-linked preflight of one California contractor license. Human reports are sold separately through Stripe Checkout.
+- [aisoup-net Commerce API](https://apis.io/apis/aisoup-net/aisoup-net-commerce-api/) — The Commerce API from aisoup-net — 5 operation(s) for commerce.
+- [aisoup-net Contact API](https://apis.io/apis/aisoup-net/aisoup-net-contact-api/) — The contact API from aisoup-net — 1 operation(s) for contact.
+- [aisoup-net Contractor Check API](https://apis.io/apis/aisoup-net/aisoup-net-contractor-check-api/) — The Contractor Check API from aisoup-net — 1 operation(s) for contractor check.
+- [aisoup-net Discovery API](https://apis.io/apis/aisoup-net/aisoup-net-discovery-api/) — The discovery API from aisoup-net — 1 operation(s) for discovery.
+- [aisoup-net Evidence Snapshots API](https://apis.io/apis/aisoup-net/aisoup-net-evidence-snapshots-api/) — The Evidence Snapshots API from aisoup-net — 2 operation(s) for evidence snapshots.
+- [aisoup-net Photo Scout API](https://apis.io/apis/aisoup-net/aisoup-net-photo-scout-api/) — The Photo Scout API from aisoup-net — 1 operation(s) for photo scout.
+- [aisoup-net Status API](https://apis.io/apis/aisoup-net/aisoup-net-status-api/) — The status API from aisoup-net — 3 operation(s) for status.
+- [aisoup-net Support API](https://apis.io/apis/aisoup-net/aisoup-net-support-api/) — The support API from aisoup-net — 3 operation(s) for support.
+- [aisoup-net Web Evidence API](https://apis.io/apis/aisoup-net/aisoup-net-web-evidence-api/) — The Web Evidence API from aisoup-net — 4 operation(s) for web evidence.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Aisoup Net Agentic Access](https://apis.io/agentic-access/aisoup-net/aisoup-net-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [ContactMessageRequest](https://apis.io/schemas/aisoup-net/aisoup-net-contact-message-request/)
+- [StatusSubscriptionRequest](https://apis.io/schemas/aisoup-net/aisoup-net-status-subscription-request/)
+- [SupportMessageRequest](https://apis.io/schemas/aisoup-net/aisoup-net-support-message-request/)
+- [SupportTicketCreateRequest](https://apis.io/schemas/aisoup-net/aisoup-net-support-ticket-create-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aisoup Net Context](https://apis.io/jsonld/aisoup-net/aisoup-net-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [aisoup-net API Rules](https://apis.io/rules/aisoup-net/aisoup-net-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aisoup Net Domain Security](https://apis.io/security/aisoup-net/aisoup-net-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aisoup.net/)
+- [Documentation](https://api.aisoup.net/docs)
+- [API reference](https://api.aisoup.net/openapi.json)
+- [Status](https://status.aisoup.net/)
+
+## API Evangelist rating
+
+**Kin Score 35.5** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 54.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 41.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aisoup-net/](https://apis.io/providers/aisoup-net/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for aisoup-net: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aisoup-net/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
